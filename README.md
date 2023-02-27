@@ -1,6 +1,6 @@
 ## 'Clear Designs by Claire' App showcasing art interior designs.
 
-Find figma design at [https://www.figma.com/file/f8kDQf42Fft1Iaw9V0plnE/Cleardesigns-Website?node-id=392%3A18591&t=6f0sQNuECXSIMKcz-0](Design file By Fatima)
+Find figma design at [Design file By Fatima](https://www.figma.com/file/f8kDQf42Fft1Iaw9V0plnE/Cleardesigns-Website?node-id=392%3A18591&t=6f0sQNuECXSIMKcz-0)
 
 First, run the development server:
 
